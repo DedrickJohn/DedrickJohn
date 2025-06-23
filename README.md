@@ -14,9 +14,9 @@ My early background in computer science has led me to develop a passion for cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Hardening                    | <a href="https://google.com">Detection Lab</a>|
-| Privilege Escalation Detection & Mitigation   | <a href="https://google.com">Detection Lab</a>|
-| Windows Event Log Ingestion via Universal Forwarder         | Active Directory Lab|
+| Active Directory Hardening                    | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
+| Privilege Escalation Detection & Mitigation   | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
+| Windows Event Log Ingestion via Universal Forwarder         | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
 
 
 ## Tools
@@ -48,4 +48,4 @@ My early background in computer science has led me to develop a passion for cybe
 </div>
 
 ## Projects
-- Active Directory Project 
+- <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>
