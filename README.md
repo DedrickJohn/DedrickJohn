@@ -1,6 +1,6 @@
 # Hello, my name is Dedrick
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dedrick-john-789131248"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm currently a cybersecurity student at West Virginia University with a strong passion for threat analysis and prevention. I'm actively expanding my knowledge through hands-on projects, academic coursework, and independent research.
 
