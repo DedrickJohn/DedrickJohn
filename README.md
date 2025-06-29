@@ -46,3 +46,4 @@ My early background in computer science has led me to develop a passion for cybe
 
 ## Projects
 - <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>
+- <a href="https://github.com/DedrickJohn/Nessus-Lab">Vulnerability Scanner Deployment Lab</a>
