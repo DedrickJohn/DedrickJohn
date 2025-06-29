@@ -17,6 +17,7 @@ My early background in computer science has led me to develop a passion for cybe
 | Active Directory Configuration                 | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
 | Threat Detection & Analysis  | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
 | Windows Event Log Ingestion via Universal Forwarder         | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
+| Vulnurability Scanning using Nessus        | <a href="https://github.com/DedrickJohn/Active-Directory-Lab">Active Directory Lab</a>|
 
 
 ## Tools
