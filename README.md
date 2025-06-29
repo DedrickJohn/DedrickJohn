@@ -10,7 +10,6 @@ I'm currently a cybersecurity student at West Virginia University with a strong 
 My early background in computer science has led me to develop a passion for cybersecurity, and I am now eager to explore more in this field. I'm particularly interested in joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in threat detection, analysis, and incident response to help defend against cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
